@@ -78,7 +78,7 @@
    .author__avatar {
     display: flex; /* Use flexbox for better alignment */
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start; /* Moves it to the left */
     text-align: left;
     // width: 280px; /* Set the size of the avatar container */
     // height: 280px; 
@@ -117,9 +117,11 @@
   /* For larger screens, ensure proper alignment */
   @include breakpoint($large) {
     .author__avatar {
-      display: block;
-      width: auto;
-      height: auto;
+      display: flex;
+      justify-content: center; /* Ensure centering on large screens */
+      width: 100%; /* Ensures it takes full width */
+      // width: auto;
+      // height: auto;
     }
   
     .author__avatar img {
