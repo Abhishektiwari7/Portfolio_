@@ -15,7 +15,7 @@ name                     : &name "Abhishek"
 description              : &description "I am a curious and ambitious individual who loves to learn and explore new opportunities. Reading books expands my perspective, and my passion for work keeps me engaged and motivated. I thrive on growth and constantly strive to achieve more."
 url                      : https://Abhishektiwari7.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Abhishektiwari7/Portfolio_"
+repository               : "Portfolio_"
 #https://github.com/Abhishektiwari7/Portfolio_
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
