@@ -9,56 +9,70 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# 👋 Welcome to My Portfolio  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+I am **Abhishek Tiwari**, an **Embedded Firmware Engineer** passionate about learning, technology, and innovation.  
+I believe in continuous growth, exploring new ideas, and pushing the boundaries of what’s possible.  
+My love for **book reading 📚, videography 🎥, and embedded engineering 🔧** keeps me engaged and motivated every day.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 🎓 Education  
+- **Bachelor of Technology (B.Tech.) in Electrical & Electronics**  
+  - *Guru Gobind Singh University*  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## 💼 Work Experience  
+### **Embedded Firmware Engineer**  
+📍 *Schneider Electric, DLF Cyber City*  
+- Designing and developing firmware solutions for embedded systems.  
+- Working on innovative technologies to optimize hardware and software integration.  
+
+---
+
+## 🛠️ Skills  
+- **Embedded Systems Development**  
+- **Firmware Engineering**  
+- **IoT & Automation**  
+- **Problem Solving & Innovation**  
+- **Storytelling through Videography 🎬**  
+
+---
+
+## 📅 Personal Details  
+- **Date of Birth:** 7-Feb-1998 🎂  
+- **Birth Time:** 11:50 PM ⏳  
+- **Place of Birth:** Bahera, Etawah - Uttar Pradesh 📍  
+- **Nakshatra:** Purva Phalguni ✨  
+- **Rashi:** ♒ कुंभ (Aquarius)  
+- **Blood Group:** O- 🩸  
+- **Languages:** Hindi 🇮🇳, English 🇬🇧  
+- **Community:** Brahmin 🕉️  
+- **Dietary Preference:** Pure Vegetarian 🌱  
+
+---
+
+## 👨‍👩‍👧 Family Background  
+👨 **Father:** Avanish Tiwari  
+   - *Admin Manager, Livguard Energy Technologies Private Limited, Himachal Pradesh*  
+   
+👩 **Mother:** Rita Tiwari  
+   - *Homemaker*  
+
+👩‍🦰 **Sister:** Shweta Tiwari  
+
+---
+
+## 📂 Portfolio  
+[📁 View My Work](./portfolio)  
+
+---
+
+## 📩 Contact  
+📍 **Location:** New Delhi, India  
+📧 **Email:** *your.email@example.com*  
+🌐 **GitHub:** [GitHub Profile](https://github.com/yourusername)  
+💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+
+---
