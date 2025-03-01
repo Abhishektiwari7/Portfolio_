@@ -61,14 +61,12 @@ My love for **book reading 📚, videography 🎥, and embedded engineering 🔧
 ---
 
 ## 📂 Portfolio  
-[📁 View My Work](./portfolio)  
+[📁 View ](./portfolio)  
 
 ---
 
 ## 📩 Contact  
 📍 **Location:** New Delhi, India  
-📧 **Email:** *your.email@example.com*  
-🌐 **GitHub:** [GitHub Profile](https://github.com/yourusername)  
-💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+💼 **Mobile Number:** +91 
 
 ---

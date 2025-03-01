@@ -1,7 +1,7 @@
 ---
 title: ""
-excerpt: "Hi, that's me! <br/><img src='/Portfolio_/images/profile.png'>"
+excerpt: "Hi, that's me! <br/><img src='/Portfolio_/images/me_travel_1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+my photos
