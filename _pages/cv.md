@@ -31,8 +31,12 @@ My love for **book reading 📚, videography 🎥, and embedded engineering 🔧
 
 ---
 
-## 🛠️ Hobby   
-- **Storytelling through Videography 🎬**  
+## 🎯 Hobbies & Interests  
+- 📚 **Book Reading** – Exploring new ideas and perspectives through books.  
+- ✈️ **Travelling** – Discovering new places, cultures, and experiences.  
+- 🔧 **Working on Small Embedded Projects** – Creating innovative solutions with embedded systems.  
+- 🎥 **Making YouTube Videos on Embedded Projects** – Sharing knowledge through storytelling and technical videos.  
+
 
 ---
 
