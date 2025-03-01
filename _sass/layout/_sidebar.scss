@@ -103,12 +103,23 @@
 .author__avatar img {
   width: 220px; /* Ensure it's a perfect circle */
   height: 120px; /* Keep width and height the same */
-  border-radius: 50%; /* Ensures the image is circular */
+  border-radius: 60%; /* Ensures the image is circular */
   object-fit: cover; /* Prevents image distortion */
   border: 3px solid var(--global-border-color); /* Optional: Add a nice border */
   padding: 5px;
 }
 
+/* Responsive adjustments for smaller screens */
+@media screen and (max-width: 768px) {
+  .author__avatar {
+    width: 80px; /* Reduce size on smaller screens */
+    height: 80px;
+  }
+
+  .author__avatar img {
+    max-width: 80px;
+  }
+}
 
 .author__content {
   display: table-cell;
