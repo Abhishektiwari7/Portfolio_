@@ -89,21 +89,21 @@
     height: auto;
   }
 
-  // img {
-  //   max-width: 300px;
-  //   border-radius: 50%;
+  img {
+    max-width: 300px;
+    border-radius: 50%;
 
-  //   @include breakpoint($large) {
-  //     padding: 5px;
-  //     border: 1px solid var(--global-border-color);
-  //   }
-  // }
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid var(--global-border-color);
+    }
+  }
 }
 
 .author__avatar img {
-  width: 100px; /* Ensure it's a perfect circle */
-  height: 100px; /* Keep width and height the same */
-  border-radius: 40%; /* Ensures the image is circular */
+  width: 120px; /* Ensure it's a perfect circle */
+  height: 120px; /* Keep width and height the same */
+  border-radius: 50%; /* Ensures the image is circular */
   object-fit: cover; /* Prevents image distortion */
   border: 3px solid var(--global-border-color); /* Optional: Add a nice border */
   padding: 5px;

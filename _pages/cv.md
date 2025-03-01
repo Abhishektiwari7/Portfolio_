@@ -11,9 +11,7 @@ redirect_from:
 
 # 👋 Welcome to My Portfolio  
 
-I am **Abhishek Tiwari**, an **Embedded Firmware Engineer** passionate about learning, technology, and innovation.  
-I believe in continuous growth, exploring new ideas, and pushing the boundaries of what’s possible.  
-My love for **book reading 📚, videography 🎥, and embedded engineering 🔧** keeps me engaged and motivated every day.  
+I am Abhishek Tiwari, an Embedded Firmware Engineer who loves technology, book reading, traveling, video editing, music, and movies. 🚀🎬🎵.  
 
 ## 👤 Personal Details  
 - **Full Name:** 🧑‍💼 Abhishek Tiwari  
@@ -54,7 +52,6 @@ My love for **book reading 📚, videography 🎥, and embedded engineering 🔧
 
 ## 💼 Lifestyle & Interests  
 - **Dietary Preference:** 🥦 Pure Vegetarian  
-- **Drinking/Smoking:** 🚫 No  
 - **Languages Known:** 🗣️ Hindi, English  
 
 ### 🌟 Hobbies & Interests  
