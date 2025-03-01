@@ -15,62 +15,55 @@ I am **Abhishek Tiwari**, an **Embedded Firmware Engineer** passionate about lea
 I believe in continuous growth, exploring new ideas, and pushing the boundaries of what’s possible.  
 My love for **book reading 📚, videography 🎥, and embedded engineering 🔧** keeps me engaged and motivated every day.  
 
----
-
-## 🎓 Education  
-- **Bachelor of Technology (B.Tech.) in Electrical & Electronics**  
-  - *Guru Gobind Singh University*  
-
----
-
-## 💼 Work Experience  
-### **Embedded Firmware Engineer**  
-📍 *Schneider Electric, DLF Cyber City*  
-- Designing and developing firmware solutions for embedded systems.  
-- Working on innovative technologies to optimize hardware and software integration.  
-
----
-
-## 🎯 Hobbies & Interests  
-- 📚 **Book Reading** – Exploring new ideas and perspectives through books.  
-- ✈️ **Travelling** – Discovering new places, cultures, and experiences.  
-- 🔧 **Working on Small Embedded Projects** – Creating innovative solutions with embedded systems.  
-- 🎥 **Making YouTube Videos on Embedded Projects** – Sharing knowledge through storytelling and technical videos.  
-
-
----
-
-## 📅 Personal Details  
-- **Date of Birth:** 7-Feb-1998 🎂  
-- **Birth Time:** 11:50 PM ⏳  
-- **Place of Birth:** Bahera, Etawah - Uttar Pradesh 📍  
-- **Nakshatra:** Purva Phalguni ✨  
+## 👤 Personal Details  
+- **Full Name:** 🧑‍💼 Abhishek Tiwari  
+- **Date of Birth:** 📅 7th February 1998  
+- **Age:** 🎂 27 years  
+- **Height:** 📏 5’8” (173 cm)  
+- **Birth Time:** ⏰ 11:50 PM  
+- **Birth Place:** 📍 Bahera, Etawah, Uttar Pradesh  
 - **Rashi:** ♒ कुंभ (Aquarius)  
-- **Blood Group:** O- 🩸  
-- **Languages:** Hindi 🇮🇳, English 🇬🇧  
-- **Community:** Brahmin 🕉️  
-- **Dietary Preference:** Pure Vegetarian 🌱  
+- **Nakshatra:** 🌟 Purva Phalguni  
+- **Blood Group:** 🩸 O-  
+- **Community:** 🕉️ Brahmin  
+- **Religion:** 🛕 Hindu  
+- **Mother Tongue:** 🗣️ Hindi  
+- **Marital Status:** 💍 Never Married  
 
 ---
 
-## 👨‍👩‍👧 Family Background  
-👨 **Father:** Avanish Tiwari  
-   - *Admin Manager, Livguard Energy Technologies Private Limited, Himachal Pradesh*  
-   
-👩 **Mother:** Rita Tiwari  
-   - *Homemaker*  
-
-👩‍🦰 **Sister:** Shweta Tiwari  
+## 🎓 Education & Occupation  
+- **Education:** 🎓 Bachelor of Technology (B.Tech) in Electrical & Electronics  
+- **University:** 🏫 Guru Gobind Singh Indraprastha University, Delhi  
+- **Occupation:** 💻 Embedded Firmware Engineer  
+- **Company:** 🏢 Schneider Electric (DLF Cyber City)  
 
 ---
 
-## 📂 Portfolio  
-[📁 View ](./portfolio)  
+## 🏡 Family Details  
+- **Father’s Name:** 👨‍👦 Avanish Tiwari  
+  - **Occupation:** 👨‍💼 Admin Manager at Livguard Energy Technologies Pvt. Ltd., Himachal Pradesh  
+- **Mother’s Name:** 👩‍👧 Rita Tiwari  
+  - **Occupation:** 🏡 Homemaker  
+- **Siblings:**  
+  - **Sister’s Name:** 👩‍👧 Shweta Tiwari  
+
+- **Native Place:** 🏡 Uttar Pradesh  
 
 ---
 
-## 📩 Contact  
-📍 **Location:** New Delhi, India  
-💼 **Mobile Number:** +91 
+## 💼 Lifestyle & Interests  
+- **Dietary Preference:** 🥦 Pure Vegetarian  
+- **Drinking/Smoking:** 🚫 No  
+- **Languages Known:** 🗣️ Hindi, English  
+
+### 🌟 Hobbies & Interests  
+- 📖 **Book Reading** – Expanding knowledge and gaining new perspectives  
+- ✈️ **Traveling** – Exploring new places and cultures  
+- 🔧 **Embedded Engineering** – Passionate about working on small embedded projects  
+- 🎬 **Content Creation** – Making YouTube videos on embedded projects and technology  
 
 ---
+
+## 📞 Contact Details  
+- **Mobile Number:** 📱 +919805400019  

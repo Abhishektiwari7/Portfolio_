@@ -24,10 +24,9 @@ author:
   # Biographic information
   avatar           : "my_profile_pic_C.jpg"
   name             : "Abhishek Tiwari"
-  bio              : "I am a curious and ambitious individual who loves to learn and explore new opportunities. Reading books expands my perspective, and my passion for work keeps me engaged and motivated. I thrive on growth and constantly strive to achieve more."
+  bio              : ""
   location         : "New Delhi"
-  email            : "abhishektiwari7feb@gmail.com" 
-
+  
   # Repositories and software development
   github           : "Abhishektiwari7"
 
