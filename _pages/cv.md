@@ -25,8 +25,7 @@ I am Abhishek Tiwari, an Embedded Firmware Engineer who loves technology, book r
 - **Blood Group:** 🩸 O-  
 - **Community:** 🕉️ Brahmin  
 - **Religion:** 🛕 Hindu  
-- **Mother Tongue:** 🗣️ Hindi  
-- **Marital Status:** 💍 Never Married  
+- **Mother Tongue:** 🗣️ Hindi   
 
 ---
 
