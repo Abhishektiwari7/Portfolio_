@@ -50,17 +50,11 @@ I am Abhishek Tiwari, an Embedded Firmware Engineer who loves technology, book r
 
 ---
 
-## 💼 Lifestyle & Interests  
+## 💼 Lifestyle  
 - **Dietary Preference:** 🥦 Pure Vegetarian  
-- **Languages Known:** 🗣️ Hindi, English  
-
-### 🌟 Hobbies & Interests  
-- 📖 **Book Reading** – Expanding knowledge and gaining new perspectives  
-- ✈️ **Traveling** – Exploring new places and cultures  
-- 🔧 **Embedded Engineering** – Passionate about working on small embedded projects  
-- 🎬 **Content Creation** – Making YouTube videos on embedded projects and technology  
+- **Languages Known:** 🗣️ Hindi, English   
 
 ---
 
 ## 📞 Contact Details  
-- **Mobile Number:** 📱 +919805400019  
+- **Mobile Number:** 📱 +919816103410  
