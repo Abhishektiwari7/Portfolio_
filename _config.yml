@@ -24,20 +24,19 @@ author:
   # Biographic information
   avatar           : "my_profile_pic_C.jpg"
   name             : "Abhishek Tiwari"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Delhi"
-  email            : "none@example.org" 
+  bio              : "I am a curious and ambitious individual who loves to learn and explore new opportunities. Reading books expands my perspective, and my passion for work keeps me engaged and motivated. I thrive on growth and constantly strive to achieve more."
+  location         : "New Delhi"
+  email            : "abhishektiwari7feb@gmail.com" 
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "https://github.com/Abhishektiwari7"
 
   # Social media
-  instagram        : # Username
-  linkedin         : # Username
-  telegram         : # URL
-  twitter          : # Username for X / Twitter
-  youtube          : # Username
+  instagram        : https://www.instagaram.com/askt7297
+  linkedin         : https://
+  telegram         : https://
+  twitter          : https://
+  youtube          : https://www.youtube.com/@Abhishektiwari267
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -177,12 +176,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -193,42 +186,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -238,15 +195,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:
