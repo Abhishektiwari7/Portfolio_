@@ -79,8 +79,10 @@
     display: flex; /* Use flexbox for better alignment */
     align-items: center;
     justify-content: center;
-    width: 280px; /* Set the size of the avatar container */
-    height: 280px; 
+    text-align: center;
+    // width: 280px; /* Set the size of the avatar container */
+    // height: 280px; 
+    width: 100%; /* Ensures it takes full width */
     margin: 0 auto; /* Centering */
   }
   
