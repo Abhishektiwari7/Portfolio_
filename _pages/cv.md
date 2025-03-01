@@ -16,7 +16,7 @@ I am Abhishek Tiwari, an Embedded Firmware Engineer who loves technology, book r
 ## 👤 Personal Details  
 - **Full Name:** 🧑‍💼 Abhishek Tiwari  
 - **Date of Birth:** 📅 7th February 1998  
-- **Age:** 🎂 27 years  
+- **Age:** 🎂 26 years  
 - **Height:** 📏 5’8” (173 cm)  
 - **Birth Time:** ⏰ 02:45 PM  
 - **Birth Place:** 📍 Bahera, Etawah, Uttar Pradesh  

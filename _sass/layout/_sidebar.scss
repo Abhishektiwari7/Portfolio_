@@ -94,10 +94,10 @@
     display: block;
   }
 
-  // /* Optional: Use clip-path for a better circular effect */
-  // .author__avatar img {
-  //   clip-path: circle(48%);
-  // }
+  /* Optional: Use clip-path for a better circular effect */
+  .author__avatar img {
+    clip-path: circle(48%);
+  }
   
   /* Responsive adjustments for mobile */
   @media (max-width: 768px) {
