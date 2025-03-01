@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Abhishek Tiwari / Portfolio"
+title                    : "Abhishek Tiwari"
 title_separator          : "-"
 name                     : &name "Abhishek"
 description              : &description "I am a curious and ambitious individual who loves to learn and explore new opportunities. Reading books expands my perspective, and my passion for work keeps me engaged and motivated. I thrive on growth and constantly strive to achieve more."

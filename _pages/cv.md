@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Home"
+title: ""
 permalink: /
 author_profile: true
 redirect_from:
@@ -31,11 +31,7 @@ My love for **book reading 📚, videography 🎥, and embedded engineering 🔧
 
 ---
 
-## 🛠️ Skills  
-- **Embedded Systems Development**  
-- **Firmware Engineering**  
-- **IoT & Automation**  
-- **Problem Solving & Innovation**  
+## 🛠️ Hobby   
 - **Storytelling through Videography 🎬**  
 
 ---
