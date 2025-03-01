@@ -19,7 +19,7 @@ I am Abhishek Tiwari, an Embedded Firmware Engineer who loves technology, book r
 - **Age:** 🎂 26 years  
 - **Height:** 📏 5’8” (173 cm)  
 - **Birth Time:** ⏰ 02:45 PM  
-- **Birth Place:** 📍 Bahera, Etawah, Uttar Pradesh  
+- **Birth Place:** 📍 बहेड़ा (Bahera), Etawah, Uttar Pradesh  
 - **Moon Rashi:** ♊ मिथुन (Gemini)  
 - **Sun Rashi:** ♒ कुंभ (Aquarius)  
 - **Nakshatra:** 🌟 आर्द्रा (Aadra)   
