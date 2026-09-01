@@ -16,7 +16,7 @@ I am Abhishek Tiwari, an Embedded Firmware Engineer who loves technology, book r
 ## 👤 Personal Details  
 - **Full Name:** 🧑‍💼 Abhishek Tiwari  
 - **Date of Birth:** 📅 7th February 1998  
-- **Age:** 🎂 26 years  
+- **Age:** 🎂 28 years  
 - **Height:** 📏 5’8” (173 cm)  
 - **Birth Time:** ⏰ 02:45 PM  
 - **Birth Place:** 📍 बहेड़ा (Bahera), Etawah, Uttar Pradesh  
@@ -34,8 +34,9 @@ I am Abhishek Tiwari, an Embedded Firmware Engineer who loves technology, book r
 - **Education:** 🎓 Bachelor of Technology (B.Tech) in Electrical & Electronics  
 - **University:** 🏫 Guru Gobind Singh Indraprastha University, Delhi  
 - **Occupation:** 💻 Embedded Firmware Engineer  
-- **Company:** 🏢 Schneider Electric (DLF Cyber City)  
+- **Company:** 🏢 Schneider Electric (DLF Downtown 4 Gurugram)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekt2596/)
 ---
 
 ## 🏡 Family Details  
